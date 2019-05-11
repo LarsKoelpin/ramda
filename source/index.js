@@ -98,6 +98,7 @@ export { default as invert } from './invert';
 export { default as invertObj } from './invertObj';
 export { default as invoker } from './invoker';
 export { default as is } from './is';
+export { default as isNotNil } from './isNotNil';
 export { default as isEmpty } from './isEmpty';
 export { default as isNil } from './isNil';
 export { default as join } from './join';
